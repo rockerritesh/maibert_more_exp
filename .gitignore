@@ -12,3 +12,6 @@ data/
 .ipynb_checkpoints/
 .env
 
+MaiBERT_ALTA_Utsav_
+.DS_Store
+mai_qa.ipynb
