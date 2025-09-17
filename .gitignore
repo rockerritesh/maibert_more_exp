@@ -15,3 +15,5 @@ data/
 MaiBERT_ALTA_Utsav_
 .DS_Store
 mai_qa.ipynb
+*.txt
+*.csv
