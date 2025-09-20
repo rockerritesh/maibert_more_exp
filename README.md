@@ -212,3 +212,15 @@ Entertainment       0.00      0.01      0.00       169
 
 Final Validation Accuracy: 0.1434
 ```
+
+```
+@misc{yadav2025maibertspeakmaithili,
+      title={Can maiBERT Speak for Maithili?}, 
+      author={Sumit Yadav and Raju Kumar Yadav and Utsav Maskey and Gautam Siddharth Kashyap Md Azizul Hoque and Ganesh Gautam},
+      year={2025},
+      eprint={2509.15048},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.15048}, 
+}
+```
